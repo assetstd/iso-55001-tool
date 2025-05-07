@@ -950,7 +950,7 @@ performance_evaluation:
     type: "XO"
     description: "Are the results of management reviews included in the unit's integrity management annual report?"
 
-improvements:
+improvement:
   q1:
     type: "PW"
     description: "Are improvement management requirements established and cover:"
